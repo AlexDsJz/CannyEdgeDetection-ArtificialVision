@@ -1,0 +1,41 @@
+﻿  Examen.cpp
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(55,71): warning C4244: '+=': conversión de '_Ty' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(159,45): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(187,63): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(187,37): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(189,23): warning C4244: 'argumento': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(189,17): warning C4244: 'argumento': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(224,32): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(263,11): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(263,34): warning C4804: '<=': uso no seguro del tipo 'bool' en la operación
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(268,18): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(273,18): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(278,19): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(312,11): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(313,12): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\alexi\source\repos\ExamenPracticoP1\ExamenPracticoP1\Examen.cpp(324,11): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 276 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  ExamenPracticoP1.vcxproj -> C:\Users\alexi\source\repos\ExamenPracticoP1\x64\Release\ExamenPracticoP1.exe
